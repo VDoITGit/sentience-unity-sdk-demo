@@ -1,0 +1,40 @@
+{
+  "name": "xyz.0xSentience.waas-unity",
+  "version": "2.4.2",
+  "displayName": "Sentience WaaS SDK",
+  "description": "A Unity SDK for the Sentience WaaS API",
+  "unity": "2021.3",
+  "keywords": ["Unity", "Package", "wallet", "ethereum", "web3", "Sentience", "waas"],
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json" : "3.0.2"
+  },
+  "author": {
+    "name": "0xSentience",
+    "url": "https://Sentience.xyz/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xSentience/Sentience-unity.git"
+  },
+  "category": "web3",
+  "samples": [
+    {
+      "displayName": "Setup",
+      "description": "Import this into your project to get started",
+      "path": "Samples~/Setup"
+    },
+    {
+      "displayName": "Demo Scene",
+      "description": "Basic demo scene showcasing the SDK functionality",
+      "path": "Samples~/DemoScene"
+    },
+    {
+      "displayName": "Useful Scripts",
+      "description": "Basic scripts that are helpful for getting started with the SDK",
+      "path": "Samples~/Scripts"
+    }
+  ],
+  "documentationUrl": "https://docs.Sentience.xyz/unity-waas-sdk",
+  "changelogUrl": "https://github.com/0xSentience/Sentience-unity/releases",
+  "licensesUrl": "https://github.com/0xSentience/Sentience-unity/blob/master/LICENSE"
+}

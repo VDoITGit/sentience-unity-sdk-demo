@@ -1,0 +1,19 @@
+{
+    "name": "SentienceEthereum",
+    "rootNamespace": "",
+    "references": ["GUID:a35e3a53d4439435f8b36ed2c6158cd8","GUID:b4f9c0f8f363f439b9e337f79050f189"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "BouncyCastle.Crypto.dll",
+        "NBitcoin.Secp256k1.dll",
+        "NBitcoin.dll",
+        "Newtonsoft.Json.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
